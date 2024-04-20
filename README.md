@@ -20,8 +20,6 @@ This News App is powered by the GNews , NewsAPI and The New York Times API and p
 
 - **Redux**: Redux is used for state management in the app. It helps manage the global state of the application and enables a more organized and predictable way of handling data flows.
 
-- **Styled-Components**: Styled-Components is used for styling the app. It allows developers to write CSS within JavaScript, making it easier to manage styles for individual components.
-
 - **React-Bootstrap**: React-Bootstrap is utilized for building responsive and customizable UI components. It provides a wide range of pre-built components that can be easily integrated into the app.
 
 ## Usage
