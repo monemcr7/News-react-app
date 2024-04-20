@@ -63,8 +63,6 @@ NewsAPI.org API
 GNews API
 New York Times API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
 ## Running with Docker
 
 1. Install Docker if you haven't already: [Docker Installation Guide](https://docs.docker.com/get-docker/)
