@@ -2,7 +2,7 @@
 
 ![](http://menamdesign.eb2a.com/news-app/app.png)
 
-This News App is powered by the GNews , News and The New York Times API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
+This News App is powered by the GNews , NewsAPI and The New York Times API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 
 ## Features
 
